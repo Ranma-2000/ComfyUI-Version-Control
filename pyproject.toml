@@ -1,12 +1,12 @@
 [project]
-name = "version-update"
-description = "ComfyUI-Manager provides features to install and manage custom nodes for ComfyUI, as well as various functionalities to assist with ComfyUI."
+name = "comfyui-version-control"
+description = "Kiểm soát các version của Workflow. Chuyên dùng cho Google Colab, để kiểm tra đồng bộ hóa."
 version = "1.0.0"
 license = { file = "LICENSE.txt" }
 dependencies = []
 
 [project.urls]
-Repository = "https://github.com/ltdrdata/ComfyUI-Manager"
+Repository = "https://github.com/Ranma-2000/ComfyUI-Version-Control"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
