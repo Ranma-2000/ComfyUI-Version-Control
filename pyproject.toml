@@ -1,0 +1,15 @@
+[project]
+name = "version-update"
+description = "ComfyUI-Manager provides features to install and manage custom nodes for ComfyUI, as well as various functionalities to assist with ComfyUI."
+version = "1.0.0"
+license = { file = "LICENSE.txt" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/ltdrdata/ComfyUI-Manager"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "betegeuse"
+DisplayName = "VersionControl"
+Icon = ""
